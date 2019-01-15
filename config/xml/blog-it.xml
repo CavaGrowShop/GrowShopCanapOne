@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/it/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/it/blog/feed.xml</link>
+    <description></description>
+    <language>it</language>
+     <atom:link href="https://www.prestashop.com/it/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PrestaShop 1.7.5.0: ecco le funzionalità che stavi aspettando!</title>
+    <link>https://www.prestashop.com/it/blog/funzionalita-prestashop-1-7-5</link>
+    <description>Già scaricabile, la 1.7.5.0 è la nuova versione minor del software PrestaShop, realizzata in grande misura grazie al contributo della community.</description>
+     <pubDate>Tue, 08 Jan 2019 10:52:56 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/funzionalita-prestashop-1-7-5</guid>
+  </item>
+  <item>
+    <title>Come installare PrestaShop: guida completa </title>
+    <link>https://www.prestashop.com/it/blog/come-installare-prestashop-guida-completa</link>
+    <description>Vuoi iniziare a vendere online ma non sai come installare PrestaShop? Hai dubbi tecnici? Vuoi approfondire come installare l’ultima versione di PrestaShop da solo?</description>
+     <pubDate>Tue, 18 Dec 2018 18:11:44 +0100</pubDate>
+ <dc:creator>Luca Vasirani</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/come-installare-prestashop-guida-completa</guid>
+  </item>
+  <item>
+    <title>Un progetto pensato per l’offline ma che trova il suo successo con l’online: ArredareModerno.com</title>
+    <link>https://www.prestashop.com/it/blog/un-progetto-offline-y-online</link>
+    <description>Fare impresa richiede un costante adattamento al mercato e la continua ricerca del miglior modello di business.</description>
+     <pubDate>Mon, 17 Dec 2018 18:54:13 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/un-progetto-offline-y-online</guid>
+  </item>
+  <item>
+    <title>PrestaShop presenta PrestaShop Academy</title>
+    <link>https://www.prestashop.com/it/blog/prestashop-academy-formazione</link>
+    <description>PrestaShop presenta PrestaShop Academy.</description>
+     <pubDate>Mon, 10 Dec 2018 15:17:43 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/prestashop-academy-formazione</guid>
+  </item>
+  <item>
+    <title>Ciak finale per l’offerta PrestaBox</title>
+    <link>https://www.prestashop.com/it/blog/fine-servizio-prestabox</link>
+    <description>Fuori commercio dal 2015, PrestaBox, il primo servizio cloud di PrestaShop, verrà definitivamente interrotto il prossimo 07 marzo 2019.</description>
+     <pubDate>Fri, 07 Dec 2018 16:07:14 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/fine-servizio-prestabox</guid>
+  </item>
+  <item>
+    <title> Incontriamo Nutribay.it, il negozio online italiano specializzato in nutrizione sportiva.</title>
+    <link>https://www.prestashop.com/it/blog/nutribay-negozio-online-specializzato-in-nutrizione-sportiva</link>
+    <description>Il settore dello sport è sempre più attento alle opportunità offerte dai canali digitali.</description>
+     <pubDate>Fri, 07 Dec 2018 11:37:45 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/nutribay-negozio-online-specializzato-in-nutrizione-sportiva</guid>
+  </item>
+  <item>
+    <title>PlanetClima.com, il negozio online specializzato nella vendita di prodotti per la climatizzazione della casa targato PrestaShop.</title>
+    <link>https://www.prestashop.com/it/blog/success-story-planet-clima</link>
+    <description>Internet rappresenta per Il settore della casa e dell’edilizia un canale di vendita e di comunicazione sempre più rilevante.</description>
+     <pubDate>Thu, 22 Nov 2018 16:11:09 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/success-story-planet-clima</guid>
+  </item>
+  <item>
+    <title>I tre modi per raccogliere e mostrare le valutazioni che miglioreranno la tua SEO e il tuo posizionamento nella ricerca organica</title>
+    <link>https://www.prestashop.com/it/blog/raccogliere-e-mostrare-le-valutazioni-che-miglioreranno-la-tua-seo</link>
+    <description>Negli ultimi anni le valutazioni e le recensioni sono diventate strumenti indispensabili per ogni attività di eCommerce.</description>
+     <pubDate>Thu, 15 Nov 2018 17:05:42 +0100</pubDate>
+ <dc:creator>eKomi_IT</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/raccogliere-e-mostrare-le-valutazioni-che-miglioreranno-la-tua-seo</guid>
+  </item>
+  <item>
+    <title>Come preparare il proprio e-commerce alle festività natalizie</title>
+    <link>https://www.prestashop.com/it/blog/preparare-il-proprio-e-commerce-alle-festivita-natalizie</link>
+    <description>Non è mai troppo presto per creare una strategia ad hoc per aumentare le vendite e sfruttare al massimo il periodo natalizio.</description>
+     <pubDate>Mon, 12 Nov 2018 16:59:44 +0100</pubDate>
+ <dc:creator>SeoChef@prestashop.com</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/preparare-il-proprio-e-commerce-alle-festivita-natalizie</guid>
+  </item>
+  <item>
+    <title>Come aumentare margine e tasso di conversione grazie a Satispay</title>
+    <link>https://www.prestashop.com/it/blog/come-aumentare-margine-e-tasso-di-conversione-grazie-a-satispay</link>
+    <description>Se hai deciso di lanciare un e-commerce, il tuo obiettivo è sicuramente uno: quello di guadagnare il più possibile da questa attività.</description>
+     <pubDate>Wed, 31 Oct 2018 17:55:24 +0100</pubDate>
+ <dc:creator>Satispay</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/it/blog/come-aumentare-margine-e-tasso-di-conversione-grazie-a-satispay</guid>
+  </item>
+  </channel>
+</rss>
